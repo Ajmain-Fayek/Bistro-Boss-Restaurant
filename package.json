@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.12.0",
+    "serve-favicon": "^2.5.0"
+  },
+  "name": "bistro-resturant-server",
+  "version": "1.0.0",
+  "description": "A Resturant Managemnet Web-Applicaiton",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajmain-Fayek/Bistro-Boss-Restaurant.git"
+  },
+  "keywords": [
+    "restaurant"
+  ],
+  "author": "Ajmain Fayek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ajmain-Fayek/Bistro-Boss-Restaurant/issues"
+  },
+  "homepage": "https://github.com/Ajmain-Fayek/Bistro-Boss-Restaurant#readme"
+}
